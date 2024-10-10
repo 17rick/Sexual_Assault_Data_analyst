@@ -1,10 +1,8 @@
 # Sexual_Assault_Data_analyst 🍁
 
 
-# 🍁 This is Our project : 🚀 Click the link to view our project 
-
-🚀🎗️ [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-visionaries040-rick.streamlit.app/)  🥀
-
+# 🍁 This is Our project : 🎗️ [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-visionaries040-rick.streamlit.app/)  🥀
+click the streamlit logo to view our project in streamlit . ⬆️
 
 # our project will look like this : 
 ![image](https://github.com/user-attachments/assets/80049e94-1bd6-4a6c-9d56-54b66c7e9c2d)
