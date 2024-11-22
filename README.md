@@ -7,9 +7,7 @@ click the streamlit logo to view our project in streamlit . ⬆️
 ![image](https://github.com/user-attachments/assets/80049e94-1bd6-4a6c-9d56-54b66c7e9c2d)
 ![image](https://github.com/user-attachments/assets/de733eff-581c-400b-a2ae-798f4b5f9b7d)
 
-
-🗝️
-# Key Points:
+#  🗝️Key Points:
 🚀Purpose:
 Analyze sexual assault cases in India between 2001 and 2014.
 Highlight the most affected regions and key timeframes to support preventive efforts.
